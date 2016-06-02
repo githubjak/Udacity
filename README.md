@@ -1,2 +1,2 @@
 # Udacity
-Udacity project files
+Udacity project files for intro to machine learning
